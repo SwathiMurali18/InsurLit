@@ -1,0 +1,12 @@
+streamlit
+fpdf
+pdfplumber
+Python
+Pillow handle images
+Pytesseract
+Google-generativeai
+Textstat
+Dotenvaiofiles
+gunicorn
+
+
