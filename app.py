@@ -4,7 +4,8 @@ import gemini_integration as gi
 import readability as rd
 import pdf_export as pe
 import base64
-
+from dotenv import load_dotenv
+load_dotenv()
 
 # Load environment variables from .env file
 
