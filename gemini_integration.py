@@ -2,7 +2,8 @@ import os
 import json
 import google.generativeai as genai
 import streamlit as st
-
+from dotenv import load_dotenv
+load_dotenv()
 # Configure the Gemini API with the API key
 API_KEY =os.getenv("GEMINI_API_KEY")
 
